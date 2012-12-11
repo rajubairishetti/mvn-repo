@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 11 17:05:09 GMT+05:30 2012
+http\://repo1.maven.org\ maven2/.error=
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org\ maven2/.lastUpdated=1355225708801
+http\://repo1.maven.org/maven2/.lastUpdated=1355225709655
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1355225708103
+http\://build.corp.inmobi.com/nexus/content/repositories/releases/.lastUpdated=1354092560395
