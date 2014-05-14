@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.inmobi.messaging</groupId>
+  <artifactId>messaging-client-scribe</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140514060618</lastUpdated>
+  </versioning>
+</metadata>
