@@ -5,21 +5,21 @@
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140512.120847</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20140514.083521</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20140512120847</lastUpdated>
+    <lastUpdated>20140514083521</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20140512.120847-3</value>
-        <updated>20140512120847</updated>
+        <value>1.0.0-20140514.083521-4</value>
+        <updated>20140514083521</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>site</classifier>
         <extension>xml</extension>
-        <value>1.0.0-20140512.120847-3</value>
-        <updated>20140512120847</updated>
+        <value>1.0.0-20140514.083521-4</value>
+        <updated>20140514083521</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
